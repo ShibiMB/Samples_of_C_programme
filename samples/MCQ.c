@@ -17,7 +17,7 @@ int main()
     printf("%d\n",d);
     printf("%d\n", c + b); //int promotion
     printf("%d >> %d %d >> %d\n", 4 >> 1, 8 >> 1);
-    printf("%d >> %d, %d >> %d\n", 4 >> 1, 8 >> 1);
+    printf("%d >> %d %d >> %d\n", 4 >> 1, 8 >> 1);
       return 0;
 }
 
