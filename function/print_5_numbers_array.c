@@ -10,7 +10,8 @@ void myFunction(int myNumbers[])
   }
 }
 
-int main() {
+int main() 
+{
   int myNumbers[5] , i;
   printf("Enter the 5 numbers\n");
   
